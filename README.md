@@ -1,6 +1,4 @@
 # ChuckNorrisApp
-
-# ChuckNorrisApp
 This is a simple web application that allows users to submit their email addresses to receive daily Chuck Norris jokes via email. The application is built using Node.js and utilizes the Chuck Norris API to fetch random jokes.
 
 # Technologies Used
