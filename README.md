@@ -22,4 +22,4 @@ To run this application on your local machine, follow these steps:
 # Additional Notes
 • For security reasons, emails will be sent from the email address kiko4a93@abv.bg, which is a puppet email address.
 • The application may not always be able to send emails due to authentication blocks by the email domain abv.bg.
-• The source code for this project can be found at https://github.com/your-username/ChuckNorrisApp.
+• The source code for this project can be found at https://github.com/Fury86/ChuckNorrisApp.
