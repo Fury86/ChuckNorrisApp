@@ -44,7 +44,7 @@ app.post('/form-submit', (req, res) => {
 
         // Define and send message inside transporter.sendEmail() and await info about send from promise:
         let info = await transporter.sendMail({
-            from: 'replace this with your email address',
+            from: "kiko4a93@abv.bg",  //Replace this with your email address
             to: email, //This is the received email from the html form
             subject: "Chuck Norris Joke",
             html: `
