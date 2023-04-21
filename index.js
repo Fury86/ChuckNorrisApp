@@ -34,7 +34,7 @@ app.post('/form-submit', (req, res) => {
             secure: true, // Usually true if connecting to port 465
             auth: {
                 user: "kiko4a93@abv.bg", // Replace kiko4a93@abv.bg with your email address
-                pass: "******", // Enter your password for your email address (for gmail/abv or anyother email service provider, your app password)
+                pass: "12345678qwertyui", // Replace with your password for your email address (for gmail/abv or anyother email service provider, your app password)
 
             },
             tls: {
