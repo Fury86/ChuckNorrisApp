@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const nodemailer = require("nodemailer");
 const bodyParser = require('body-parser');
-
+const fetch = require('node-fetch');
 
 app.use(bodyParser.urlencoded({
     extended: true
