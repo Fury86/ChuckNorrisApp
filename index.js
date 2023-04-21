@@ -61,7 +61,7 @@ app.post('/form-submit', (req, res) => {
     }
 
     main()
-        .catch(err => console.log(err));
+        .catch(err => res.status(500).send('Error fetching data'));
     res.redirect('/');
 });
 
